@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* GED in 2024
+* 
+* 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2025 - Current: Market and Reception
+  * HAPCAP - Market
+  * Duties includes: Stocking shelves. helping neighbors, answering phones and checking neighbors in
+  * Supervisor: Jacob Kemp
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2021- Aug 2022: Barista Trainer
+  * Starbucks- Bedford, TX - Lancaster, OH
+  * Duties includes: Training new partners and working registers while creating a welcoming experience for customers.
+  * Supervisor: Sydney Marsh
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*  : 
+  * 
+  * 
+  * 
   
 Skills
 ======
@@ -61,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
