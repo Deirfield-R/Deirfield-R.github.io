@@ -46,7 +46,8 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+  [AI governance policy.pdf](https://github.com/user-attachments/files/32675677/AI.governance.policy.pdf)
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
