@@ -47,7 +47,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   [AI governance policy.pdf](https://github.com/user-attachments/files/32675677/AI.governance.policy.pdf)
-
+This policy I created talks mostly about the lack of human review in AI decision making with automated AI systems. This also talks about privacy and data protection within the use of generative AI within a work environment. 
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
